@@ -1,1 +1,1 @@
-# [IMZHI BLOG](http://blog.imzhi.me/)
+# [Gami BLOG](https://fenggami.github.io/)

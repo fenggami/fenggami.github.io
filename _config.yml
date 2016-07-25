@@ -1,17 +1,17 @@
 baseurl:        /
 asseturl:       /assets/
-title:          imzhi的个人博客
-sub_title:      再也无须前思后想，一切岂非已然过往。
-url:            http://blog.imzhi.me/
-timezone:       Asia/Chongqing
+title:          gami的个人博客
+sub_title:      A girl love smiling and running as well as exploring the world.
+url:            https://fenggami.github.io/
+timezone:       Asia/Beijing
 
 paginate:       20
 paginate_path:  '/page-:num'
 markdown:       kramdown
 
-keywords:       imzhi的个人博客
-description:    imzhi的个人博客
+keywords:       gami的个人博客
+description:    gami的个人博客
 author:
-    true_name:  杨晓智
-    name:       imzhi
-    email:      yxz_blue@126.com
+    true_name:  冯嘉美
+    name:       gami
+    email:      fjmbupt@163.com

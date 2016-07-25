@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 你好，这个世界
-tags: 未分类
+title: Hi,everyone
+tags: about me
 ---
 
 这是我在 Github 的第一篇 blog
+                      --gami
