@@ -1,6 +1,6 @@
 baseurl:        /
 asseturl:       /assets/
-title:          gami的个人博客
+title:          gami's blog
 sub_title:      A girl love smiling and running as well as exploring the world.
 url:            https://fenggami.github.io/
 timezone:       Asia/Beijing
@@ -9,8 +9,8 @@ paginate:       20
 paginate_path:  '/page-:num'
 markdown:       kramdown
 
-keywords:       gami的个人博客
-description:    gami的个人博客
+keywords:       gami's blog
+description:    gami's blog
 author:
     true_name:  冯嘉美
     name:       gami

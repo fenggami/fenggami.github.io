@@ -1,8 +1,17 @@
 ---
+
 layout: post
-title: Hi,everyone
-tags: about me
+title: 'Hi,everyone'
+tags: aboutme
+
 ---
 
-这是我在 Github 的第一篇 blog
-                      --gami
+## This is my new blog! ##
+
+### About me
+ - Name: Feng Jiamei  冯嘉美
+ - Grade: Postgraduate  研究生
+ - LAB:  Pattern Recognition & Intelligent Systems Laboratory LAB (PRIS)  模式识别与智能系统实验室
+ - Major: Information and Communication Engineering   电子与通信工程
+ - College: Beijing University of Posts and Telecommunications (BUPT). P.R.China  北京邮电大学
+ - Please contract me at _fjmbupt@163.com_
